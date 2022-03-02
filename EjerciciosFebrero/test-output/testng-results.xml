@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Ingresa el primer número: ]]>
+    </line>
+    <line>
+      <![CDATA[Ingresa el segundo número: ]]>
+    </line>
+    <line>
+      <![CDATA[5.0 Es menor que 6.0]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-02T03:52:57Z" name="Default suite" finished-at="2022-03-02T03:53:04Z" duration-ms="6898">
+    <groups>
+    </groups>
+    <test started-at="2022-03-02T03:52:57Z" name="Default test" finished-at="2022-03-02T03:53:04Z" duration-ms="6898">
+      <class name="com.ejercicios.Ejercicio1">
+        <test-method signature="compararNum()[pri:0, instance:com.ejercicios.Ejercicio1@4196c360]" started-at="2022-03-02T03:52:57Z" name="compararNum" finished-at="2022-03-02T03:53:04Z" duration-ms="6885" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Ingresa el primer número: ]]>
+            </line>
+            <line>
+              <![CDATA[Ingresa el segundo número: ]]>
+            </line>
+            <line>
+              <![CDATA[5.0 Es menor que 6.0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- compararNum -->
+      </class> <!-- com.ejercicios.Ejercicio1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
